@@ -10,6 +10,7 @@ function App() {
     <div className="App">
      <Wrapper>
       <h2>Inner Text</h2>
+      <button>Click</button>
      </Wrapper >
     </div>
   );

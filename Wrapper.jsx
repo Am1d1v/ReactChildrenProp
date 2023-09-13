@@ -6,7 +6,7 @@ function Wrapper(props){
 
 return(
     <div>
-        <h1>Wrapper</h1>
+        {props.children}
     </div>
 )
 }
